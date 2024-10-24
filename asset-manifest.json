@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Mobile-React/static/css/main.0af91994.css",
+    "main.js": "/Mobile-React/static/js/main.de2ebd5d.js",
+    "static/js/453.cffcedf7.chunk.js": "/Mobile-React/static/js/453.cffcedf7.chunk.js",
+    "static/media/img4.png": "/Mobile-React/static/media/img4.c0c2ee2d33d3b76b327c.png",
+    "static/media/img3.png": "/Mobile-React/static/media/img3.9e5830f91169283c9885.png",
+    "static/media/laptop.png": "/Mobile-React/static/media/laptop.354ea995c3b5050d7ff1.png",
+    "static/media/tab3.png": "/Mobile-React/static/media/tab3.b6654a5512f40065ced1.png",
+    "static/media/laptop2.png": "/Mobile-React/static/media/laptop2.25839cdfec207a3019ed.png",
+    "static/media/laptop3.png": "/Mobile-React/static/media/laptop3.2035453d9b8c040b7268.png",
+    "static/media/img5.png": "/Mobile-React/static/media/img5.1a62440614725456a280.png",
+    "static/media/tab2.png": "/Mobile-React/static/media/tab2.5f5672d3668705c20053.png",
+    "static/media/tab.png": "/Mobile-React/static/media/tab.fb925e59e55b5c32d368.png",
+    "index.html": "/Mobile-React/index.html",
+    "main.0af91994.css.map": "/Mobile-React/static/css/main.0af91994.css.map",
+    "main.de2ebd5d.js.map": "/Mobile-React/static/js/main.de2ebd5d.js.map",
+    "453.cffcedf7.chunk.js.map": "/Mobile-React/static/js/453.cffcedf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0af91994.css",
+    "static/js/main.de2ebd5d.js"
+  ]
+}
